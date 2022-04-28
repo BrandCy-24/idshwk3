@@ -1,5 +1,5 @@
-#problem:check http sessions and if a source IP is related to three different user-agents or more, output it
-#code procedure:
+# problem:check http sessions and if a source IP is related to three different user-agents or more, output it
+# code procedure:
 # a global variable to store the relationship of sourceIP to user-agent
 # write a event which can return you the http header information
 # you may need to study the datatype of Table, Set, String
